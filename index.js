@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var exec = require('child_process').exec;
 var minimist = require('minimist');
 var argv = minimist(process.argv.slice(2), {
