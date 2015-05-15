@@ -1,0 +1,11 @@
+{
+  "name": "hlcode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Arnaud Benard <arnaud@streethub.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.1"
+  }
+}
