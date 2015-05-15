@@ -1,5 +1,8 @@
 # hlcode
 
+Utility for syntax highlighting in Keynote. 
+
+
 ## Installation
 
 You have install highlight on your machine
@@ -8,6 +11,27 @@ You have install highlight on your machine
 brew install highlight
 ```
 
+Install the CLI globally
+```
+npm install hlcode -g
+```
+
+
+## Usage
+
+Specify a file with `-f`
+
+```
+hlcode -f script.js
+```
+
+Or highlight the clipboard data with the right syntax
+
+```
+hlcode -s js
+```
+
+Finally, paste your highlighted code to Keynote.
 
 ## Supported languages
 
