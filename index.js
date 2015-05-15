@@ -7,7 +7,6 @@ var argv = minimist(process.argv.slice(2), {
     }
 });
 
-var cmd = '';
 var syntax = argv.s;
 var filename = argv.f;
 
