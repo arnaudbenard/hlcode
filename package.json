@@ -6,7 +6,7 @@
   "author": "Arnaud Benard <arnaud@streethub.com>",
   "license": "MIT",
   "bin": {
-    "hlcode": "index.js"
+    "hlcode": "./index.js"
   },
   "dependencies": {
     "minimist": "^1.1.1"
